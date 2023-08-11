@@ -1,2 +1,4 @@
 # tarea-integradora-git
-Repo para la ejercitación integradora sobre git y github 
+commited :trophy:
+staged :golf:
+modified :jack_o_lantern:
