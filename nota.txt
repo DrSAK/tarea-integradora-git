@@ -1,0 +1,1 @@
+Archivo con alguna nota que se subió por error por no usar .gitignore
