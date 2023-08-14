@@ -1,4 +1,4 @@
 # tarea-integradora-git
-commited :trophy:
-staged :golf:
-modified :jack_o_lantern:
+- **_commited_** :trophy:
++ **_staged_** :golf:
+* **_modified_** :jack_o_lantern:
